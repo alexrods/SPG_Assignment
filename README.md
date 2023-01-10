@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # SPG Assignment
 
 This is a predictive model it seeks to predict the production of a set given certain characteristics.
@@ -17,4 +15,3 @@ This is a predictive model it seeks to predict the production of a set given cer
 ## Conclusions
 
 The model has good performance to small productions but when it increases the production the model begins to increase its error, this problem can be solved with a greater amount of data, with a better feature selection or trying with a scaler less susceptible to outliers.
->>>>>>> 931a4eed4e9457dd37f46e3cfd0cc8cbacc6bfd3
